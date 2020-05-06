@@ -1,5 +1,7 @@
 # my-plugin
 
+# Should be placed in ../kibana/plugins/my_plugin
+
 > An awesome Kibana plugin
 
 ---
